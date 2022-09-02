@@ -8,7 +8,9 @@ https://ohshitgit.com/
 
 ### How do I delete a local branch in Git?
 
-`git branch -d <local-branch>`
+```
+git branch -d <local-branch>
+```
 
 ### I committed and immediately realized I need to make one small change!
 
